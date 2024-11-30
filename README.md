@@ -4,6 +4,6 @@
 ## You can find the following features :
 ### Resonsive Design 
 ### 
-## You can find libraries : such as :  
+## You can find some libraries : such as :  
 ### ❖ [WoW.js](https://wowjs.uk/)
 ### ❖ [animate css ](https://animate.style/)
